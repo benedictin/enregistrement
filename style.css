@@ -1,0 +1,47 @@
+
+*{
+    margin:0;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: #c7c8c9;
+}
+.conteneur
+{
+    background-color: white;
+    width: 600px;
+    margin: 60px auto;
+    padding: 100px;
+}
+h1
+{
+    text-align: center;
+    margin: 20px;
+}
+.formulaire input
+{
+    display: flex;
+    margin-top: 20px;
+    padding: 5px;
+    width: 100%;
+    border-radius: 10px;
+    padding: 13px;
+    border: #888787 solid 1px;
+}
+.souvenir
+{
+ margin: 15px auto;
+ font-weight: bold;   
+}
+.enregistrement input
+{
+    width: 100%;
+    padding: 13px;
+    border-radius: 10px;
+    box-shadow: #9e9d9d 6px 6px 6px;
+    background-color:#5daff3;
+    color: white;
+    border: none;
+    margin-bottom: 80px;
+}
